@@ -9,3 +9,5 @@ This is a scratch workspace for small standalone projects. Files are typically s
 ## Current files
 
 - `snake-game.html` — 经典的贪吃蛇小游戏，直接在浏览器中打开即可游玩。
+- `test.html` — 自动化测试套件，浏览器中打开即可运行全部测试用例。
+- `snake-game-presentation.pptx` — 项目展示幻灯片。
